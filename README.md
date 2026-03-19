@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Piyush Munde</h1>
+<h1>Hi 👋, I'm Piyush Munde</h1>
 
-<h3 align="center">
+<h3>
 A passionate Full Stack Developer | MERN Stack | Problem Solver
 </h3>
 
-<p align="center">
-📧 Email me 👉 your- piyushmunde53@gmail.com <br>
+<p>
+📧 <a href="mailto:piyushmunde53@gmail.com">piyushmunde53@gmail.com</a> <br>
 🤝 Open for Work | Collaboration | Projects 🚀
 </p>
 
