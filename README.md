@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Piyush Munde</h1>
+
+<h3 align="center">
+A passionate Full Stack Developer | MERN Stack | Problem Solver
+</h3>
+
+<p align="center">
+📧 Email me 👉 your- piyushmunde53@gmail.com <br>
+🤝 Open for Work | Collaboration | Projects 🚀
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushm11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushmunde53@gmail.com) 
