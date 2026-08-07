@@ -107,18 +107,6 @@ Building intelligent software, scalable web applications, and AI-powered solutio
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codingwithpiyush&theme=tokyo-night"/>
-
-</p>
-
----
-
----
-
 # 🚀 Other Projects
 
 | Project | Description |
