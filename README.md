@@ -117,12 +117,6 @@ Building intelligent software, scalable web applications, and AI-powered solutio
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codingwithpiyush" />
-</p>
-
 ---
 
 # 🚀 Other Projects
