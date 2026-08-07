@@ -17,7 +17,7 @@ Building intelligent software, scalable web applications, and AI-powered solutio
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="personalportfol0.netlify.app">
+<a href="https://personalportfol0.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -117,12 +117,10 @@ Building intelligent software, scalable web applications, and AI-powered solutio
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Codingwithpiyush&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Codingwithpiyush" />
 </p>
 
 ---
@@ -164,7 +162,7 @@ Building intelligent software, scalable web applications, and AI-powered solutio
 
 &nbsp;&nbsp;
 
-<a href="personalportfol0.netlify.app">
+<a href="https://personalportfol0.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge"/>
 </a>
 
