@@ -20,14 +20,11 @@
 
 ## 🚀 About Me
 
-* 🎓 Final-year Information Technology student
-* 💻 Passionate about **Software Engineering & Backend Development**
-* 🤖 Exploring **Generative AI, AI Agents, LLMs & RAG**
-* 🌐 Building scalable **full-stack web applications**
-* 🧠 Practicing **Data Structures & Algorithms**
-* ☁️ Exploring **Docker, Kubernetes, CI/CD & Cloud**
-* 🚀 Currently building **InterviewForge AI**
-* 💡 Interested in building practical products that solve real-world problems
+*🎓 Final-year **Information Technology** student
+*💻 **Software Developer** focused on Backend & Full-Stack Development
+*🤖 Building with **Generative AI, LLMs & AI Agents**
+*🚀 Developing **scalable, real-world applications**
+*🧠 Practicing **DSA & System Design**
 
 ---
 
