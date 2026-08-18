@@ -130,21 +130,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Codingwithpiyush&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🧩 Problem Solving
-
-### LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Codingwithpiyush?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
-Currently practicing:
-
-`Arrays` • `Strings` • `Recursion` • `Backtracking` • `Linked Lists` • `Trees` • `Graphs` • `Dynamic Programming` • `SQL`
-
 ---
 
 ## 📈 Contribution Activity
