@@ -20,11 +20,11 @@
 
 ## 🚀 About Me
 
-*🎓 Final-year **Information Technology** student
-*💻 **Software Developer** focused on Backend & Full-Stack Development
-*🤖 Building with **Generative AI, LLMs & AI Agents**
-*🚀 Developing **scalable, real-world applications**
-*🧠 Practicing **DSA & System Design**
+* 🎓 Final-year **Information Technology** student
+* 💻 **Software Developer** focused on Backend & Full-Stack Development
+* 🤖 Building with **Generative AI, LLMs & AI Agents**
+* 🚀 Developing **scalable, real-world applications**
+* 🧠 Practicing **DSA & System Design**
 
 ---
 
